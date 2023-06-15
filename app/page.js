@@ -48,7 +48,7 @@ export default function Home() {
               Omar Haj Khamis
             </h2>
             <h3 className="text-2xl py-2 md:text-3xl dark:text-white">
-              Front End Developer
+              Front End Developer / WordPress Developer
             </h3>
             <p className="py-5 leading-8 text-gray-800 md:text-xl max-w-xl mx-auto dark:text-gray-200">
               Freelancer providing services for programming needs. Join me down
